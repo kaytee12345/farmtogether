@@ -1,0 +1,173 @@
+
+0.0] Log file initialized - C:\Users\12562\AppData\Roaming\..\LocalLow\Milkstone Studios\FarmTogether2\FarmTogether2_log_20240615_0222.txt
+[0.0] Initializing platform
+[0.0] Game version: v45
+Date: 6/15/2024 7:22 AM
+OS: Windows 10  (10.0.19045) 64bit
+Processor: AMD Ryzen 3 3100 4-Core Processor  - Count:8 - Mhz:3593
+System RAM:8120MB
+Graphics card: NVIDIA GeForce GTX 1650 - Version: Direct3D 11.0 [level 11.1] - RAM: 3935MB
+
+Platform: DESKTOP-57SJ89M To Be Filled By O.E.M. (To Be Filled By O.E.M.) 64bit
+System language: English
+Screen Resolution: 1920x1080@60 Fullscreen:True Mode:FullScreenWindow
+Game Resolution: 1920x1080
+Arguments: D:\SteamLibrary\steamapps\common\Farm Together 2\FarmTogether2.exe
+
+[0.1] MilkAddressables initialized. 1797 assets.
+[0.1] Loaded bundle ui. Load time: 0.0156592
+[0.1] Loaded bundle base. Load time: 0.003744602
+[0.1] Loaded bundle characters. Load time: 0.0135324
+[0.1] Loaded bundle crops. Load time: 0.001918301
+[0.1] Loaded bundle decorations. Load time: 0.0013474
+[0.1] Loaded bundle fences. Load time: 0.001342602
+[0.1] Loaded bundle flags. Load time: 0.0005429983
+[0.1] Loaded bundle flowers. Load time: 0.0009623989
+[0.1] Loaded bundle fx. Load time: 0.0009561926
+[0.1] Loaded bundle houseitems. Load time: 0.001298398
+[0.1] Loaded bundle loadingscreenshots. Load time: 0.0004598945
+[0.1] Loaded bundle sound. Load time: 0.0004429966
+[0.1] Loaded bundle town. Load time: 0.0030073
+[0.1] Loaded bundle trees. Load time: 0.001060501
+[0.1] Loaded bundle vehicles. Load time: 0.001077704
+[0.1] Initializing Steam API
+[0.2] Steam API Initialized. Steam is running:True
+[0.2] Compiled Packsize: 8 Steamworks Packsize: 8
+[0.2] Save Folder: C:/Users/12562/AppData/LocalLow/Milkstone Studios/FarmTogether2/SteamStorage/76561198138162746/ - Machine: C:/Users/12562/AppData/LocalLow/Milkstone Studios/FarmTogether2/SteamStorage/Local/
+[0.2] Steam API initialized
+[0.2] Checking SDL2 Version. Detected:2.0.20. Required: 2.0.20
+[0.2] No stats file found!
+UnityEngine.Debug:LogWarning(Object)
+Milkstone.Game.Stats.StatManager:LoadStats()
+Milkstone.Game.Steam.Stats.SteamStatManager:.ctor()
+Milkstone.Game.Steam.Stats.SteamStatManager:Init()
+GameInit:InitializePlatform()
+GameInit:Awake()
+
+[0.2] Mouse Events suppression initialized
+[0.3] Initializing gamepad
+[0.3] Opening file C:/Users/12562/AppData/LocalLow/Milkstone Studios/FarmTogether2/SteamStorage/Local/globalconfig.json - Mode:Open
+[0.3] Shop items loaded: 359
+[0.3] Customization items loaded: 150
+[0.5] Platform initialized
+[0.5] Won focus
+[0.7] Adding SDL2 Mappings: D:\SteamLibrary\steamapps\common\Farm Together 2\gamecontrollerdb.txt
+[0.7] New device: One - 1639027529120 - 0 - Controller (Xbox One For Windows) Rumble: True LED: False
+[0.7] Internal Controller 0: GameController Device: 1639027529120 GUID: 00000003-045e-0000-ff02-000000007200 Attached: True Name: Controller (Xbox One For Windows)
+[0.7] SDL Controller 0: GameController Device: 1639027529120 Attached: True Name: Controller (Xbox One For Windows)
+[0.7] Reported resolution: 1920x1080@60Hz Fullscreen:FullScreenWindow, no need to change
+[0.7] Initalizing Analytics
+[0.7] Game Initialized
+[0.7] Loading scene Intro
+[5.5] Preload Start
+[5.7] LoadScene MainMenu
+[5.7] IntroScript: Slideshow finished!
+[5.9] Loaded bundle roads. Load time: 0.001204967
+[6.0] Push UI/Menu/LoadingTitle
+[6.1] Loaded bundle buildings. Load time: 0.0009522438
+[6.2] Loaded bundle animals. Load time: 0.001468182
+[6.3] Preload End
+[6.4] Switch UI/Menu/Title
+[7.4] Press A to Start pressed by gamepad KeyboardMouse
+[7.4] Switch UI/Menu/LoadingPlayer
+[7.4] Storage device selected.
+[7.4] Opening file C:/Users/12562/AppData/LocalLow/Milkstone Studios/FarmTogether2/SteamStorage/76561198138162746/test.txt - Mode:Create
+[7.4] Creating file test.txt
+[7.4] Deleting file C:/Users/12562/AppData/LocalLow/Milkstone Studios/FarmTogether2/SteamStorage/76561198138162746/test.txt
+[7.5] Choosing main player: Kaytoe - PlayerIndex One
+[7.5] Opening file C:/Users/12562/AppData/LocalLow/Milkstone Studios/FarmTogether2/SteamStorage/76561198138162746/config.json - Mode:Open
+[7.5] Unlocked DLCs: None
+[7.5] Opening file C:/Users/12562/AppData/LocalLow/Milkstone Studios/FarmTogether2/SteamStorage/76561198138162746/farms.mlk - Mode:Open
+[7.5] Global Config:
+{
+  "Global": {
+    "General": {
+      "Language": "English",
+      "KeyboardLayout": "0"
+    },
+    "Graphics": {
+      "VSync": false,
+      "Resolution": "1920,1080",
+      "FullscreenMode": "2"
+    },
+    "Sound": {
+      "Sound": "0.3",
+      "Music": "0",
+      "Master": "0.3"
+    },
+    "AmbientOcclusion": "0",
+    "Antialiasing": "1",
+    "BloomIntensity": "0",
+    "ShadowQuality": "0",
+    "FSR": "0",
+    "TextureQuality": "0",
+    "MotionBlurQuality": "0",
+    "Brightness": "0.5",
+    "DepthOfFieldQuality": "0",
+    "DrawDistance": "0",
+    "WideScreenExpand": false,
+    "PhotonRegion": "5",
+    "ModelQuality": "0",
+    "UIScale": "2",
+    "DispArea": "1",
+    "ShaderQuality": "0",
+    "PostFXQuality": "0",
+    "RenderSize": "1",
+    "InitialConfig": false,
+    "LockCursor": true,
+    "TargetFramerate": "30",
+    "BGFramerate": "30",
+    "EnableControllerInput": true,
+    "ControllerButtons": "0",
+    "Analytics": true
+  }
+}
+[7.5] User Config:
+{
+  "Config": {
+    "Game": {
+      "ChatSettings": "0",
+      "InvertX": false,
+      "InvertY": false,
+      "MouseSensitivity": "4.5",
+      "GamepadSensitivity": "0.5",
+      "GamepadAcceleration": "1.3",
+      "GamepadDeadZone": "0.3",
+      "Vibration": true,
+      "RunToggle": false,
+      "ShowHUD": true,
+      "ShowTiles": true,
+      "ShowMapIcons": true,
+      "ShowCompass": true,
+      "InventoryHud": false,
+      "AllowInteractionSound": true,
+      "AllowVoiceBlips": true,
+      "ShowHelp": true,
+      "AlwaysJumpFences": true,
+      "TileIcons": "2",
+      "SplitScreenMode": "0",
+      "SplitScreenBigUI": false,
+      "AutoTractorWater": "0",
+      "PlowOnlyWhilePlanting": false,
+      "MinimapZoom": true,
+      "ShowRecycleConfirm": "0",
+      "DisableBackgroundAudio": false
+    },
+    "Sound": {
+      "Sound": "0.3",
+      "Music": "0",
+      "Master": "0.3"
+    }
+  }
+}
+[7.5] Switch UI/Menu/MainMenu
+[7.5] Initializing Playfab
+[7.5] [Playfab] LoginWithSteam
+[8.6] [Playfab] Login Success: 3C90FA50F49E53FA 48980C8C62874216 title_player_account
+[8.6] Playfab Sign In Result: True
+[8.6] Requesting Title News from PlayFab
+[9.2] Got news
+[9.5] Push UI/Menu/Settings/Main
+[10.6] Push UI/Menu/Settings/Support
+[12.5] Opening Log path: file://C:\Users\12562\AppData\Roaming\..\LocalLow\Milkstone Studios\FarmTogether2
+[12.7] Lost focus
